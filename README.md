@@ -5,10 +5,12 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#--projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--como-contribuir">Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--mostre-seu-apoio">Mostre seu apoio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo--licença">Licença</a>
 </p>
 
 <p align="center">
@@ -21,25 +23,66 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 💻  Projeto
+
+O DevLinks é um agregador de links para usar como cartão de visitas online. Desenvolvido no Programa DevLinks da Rocketseat.
+
+## ⚡  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML5 e CSS3
 - JavaScript
-- Git e Github
+- Git e GitHub
 - Figma
 
-## 💻 Projeto
+## 🤝  Como Contribuir
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+```bash
+  # Clone o projeto
+  $ git clone https://github.com/antonio2812/DevLinks.git
+````
 
-## 🔖 Layout
+```bash
+  # Entrar no diretório
+  $ cd DevLinks
+```
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+```bash
+  # Instale as dependências utilizando o npm
+  $ npm install
+```
 
-## :memo: Licença
+```bash
+  # Executar
+  $ npm start
+```
 
-Esse projeto está sob a licença MIT.
+<p align="center">Ou</p>
 
----
+```bash
+  # Instale as dependências utilizando o yarn
+  $ yarn
+```
+
+```bash
+  # Executar
+  $ yarn start
+```
+
+## 👤  Autor
+
+**Antonio  Carlos**
+
+* [Linkedin](https://www.linkedin.com/in/antonio-carlos-de-souza-junior-03783221b/)
+* [Gmail](mailto:acarlosdesouzajunior@gmail.com)
+* [Instagram](https://www.instagram.com/carlosdesouzajunior.antonio/)
+* [Discord](https://discord.com/channels/@me)
+
+## ✨  Mostre seu apoio
+
+Dar uma⭐️se esse projeto te ajudou ou inspirou!
+
+## :memo:  Licença
+
+Esse projeto está sob a licença MIT. Consulte o arquivo <a href="https://github.com/antonio2812/DevLinks/blob/main/LICENSE">LICENSE</a> para mais detalhes.
