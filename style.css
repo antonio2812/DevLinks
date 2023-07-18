@@ -50,8 +50,15 @@ body * {
 }
 
 #profile img {
-    width: 112px;
+/*     width: 112px; */
+
+    
     border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: 3.7px;
+    border: #000 solid 1px;
+    box-shadow: 5px 5px 5px;
 }
 
 #profile p {
