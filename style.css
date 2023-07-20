@@ -51,6 +51,8 @@ body * {
 
 #profile img {
     width: 112px;
+    border-radius: 50px;
+    border: 1px solid red;
 }
 
 #profile p {
