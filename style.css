@@ -46,7 +46,8 @@ body * {
 /* profile */
 #profile {
     text-align: center;
-    padding: 24px;
+/*     padding: 24px; */
+    width: 100%;
 }
 
 #profile img {
