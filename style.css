@@ -36,7 +36,7 @@ body * {
     color: var(--text-color);
 }
 
-#container {
+#cnotainer {
     width: 100%;
     max-width: 588px;
     margin: 0px auto;
@@ -153,11 +153,11 @@ ul li a:hover {
     background: var(--highlight-color);
 }
 
-footer {
-    padding: 24px 0;
+.rodape {
+    padding: 24px;
     text-align: center;
     font-size: 14px;
-    background-color: none;
+    background: none;
 }
 
 /* media queries */
