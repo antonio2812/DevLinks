@@ -38,7 +38,7 @@ body * {
 
 #cnotainer {
     width: 588px;
-    width: 100%;
+    max-width: 100%;
     margin: 0px auto;
     padding: 0 24px;
 }
@@ -156,6 +156,7 @@ ul li a:hover {
 .rodape {
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 30px;
     text-align: center;
     font-size: 14px;
